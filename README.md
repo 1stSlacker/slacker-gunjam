@@ -6,3 +6,4 @@ Instructions / Tutorial
 2. Paste this in your server.cfg
 3. ensure slacker-gunjam
 4. Restart city and enjoy the random gun jams!
+
