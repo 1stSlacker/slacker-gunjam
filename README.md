@@ -1,3 +1,5 @@
+Need help? Join our discord for support! https://discord.gg/7nPySrd7wv
+
 Instructions / Tutorial
 
 1. Drag and drop slacker-gunjam in your resource folder
